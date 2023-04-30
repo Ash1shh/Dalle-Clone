@@ -2,10 +2,10 @@
 
   <img src="https://user-images.githubusercontent.com/87669361/229092939-76cccd8b-99f6-4d1a-bfcf-35f574360094.png" alt="logo" width="200" height="auto" />
   
-# ICHITRAM with M.E.R.N !
+# DALLE-CLONE with M.E.R.N !
   
   <p>
-   ICHITRAM with MERN stack (MongoDB, Express.js, React.js, and Node.js), Tailwind CSS, Open AI API, and Cloudinary.
+   DALLE-CLONE with M.E.R.N ! stack (MongoDB, Express.JS, React.JS, and Node.JS, Tailwind CSS, Open AI API, Cloudinary, Dark Mode, Light Mode and Vercel)
   </p>
   
   
@@ -13,20 +13,20 @@
 
 <a href="https://ichitram.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/Ash1shh/ichitram.svg)
-![](https://img.shields.io/github/stars/Ash1shh/ichitram.svg)
-![](https://img.shields.io/github/issues/Ash1shh/ichitram)
-![](https://img.shields.io/github/last-commit/Ash1shh/ichitram)
+![](https://img.shields.io/github/forks/Ash1shh/Dalle-Clone.svg)
+![](https://img.shields.io/github/stars/Ash1shh/Dalle-Clone.svg)
+![](https://img.shields.io/github/issues/Ash1shh/Dalle-Clone)
+![](https://img.shields.io/github/last-commit/Ash1shh/Dalle-Clone)
 
    
 <h4>
     <a href="https://ichitram.vercel.app/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Ash1shh/ichitram/blob/main/README.md">Documentation</a>
+    <a href="https://github.com/Ash1shh/Dalle-Clone/blob/main/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Ash1shh/ichitram/issues">Report Bug</a>
+    <a href="https://github.com/Ash1shh/Dalle-Clone/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Ash1shh/ichitram/issues">Request Feature</a>
+    <a href="https://github.com/Ash1shh/Dalle-Clone/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -132,7 +132,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Ash1shh/ichitram.git
+  git clone https://github.com/Ash1shh/Dalle-Clone.git
 ```
 Client 
 
@@ -198,3 +198,9 @@ To deploy the back-end you can use [Render.com](https://render.com/).
 
 Ashish - [@twitter pluto0p](https://twitter.com/pluto0p) - Ashishchandra8328@gmail.com
 
+<hr />
+<br />
+
+<div align="center">If you find what you see appealing, please feel free to give this repository a ⭐ star.😉 <br />
+appreciate you!
+</div>
